@@ -137,7 +137,7 @@ email varchar(200)
 )engine = InnoDB DEFAULT CHARSET=utf8;
   -- ------------------------------------------------------------------------------------------
 create table produtos_venda (
-codigo int not null auto_increment primary key,
+codigo int,
 descricao varchar(100),
 categoria varchar(100),
 preco_de_venda varchar(100),
@@ -146,7 +146,7 @@ marca varchar(100),
 modelo varchar(200),
 numero_de_serie varchar(200),
 cor varchar(100),
-codigo_compra varchar(100)
+codigo_compra int not null auto_increment primary key
 )engine = InnoDB DEFAULT CHARSET=utf8;
 
   -- ------------------------------------------------------------------------------------------

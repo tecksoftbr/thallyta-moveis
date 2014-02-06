@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="304" y="176" width="497" height="225" text="Thallyta Móveis - Segurança Ativada" measuredWidth="497" measuredHeight="225"/>
+  <widgets xsi:type="model:HLine" id="2" x="304" y="272" width="497" measuredWidth="497" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="3" x="340" y="207" width="57" height="57" measuredWidth="57" measuredHeight="57" icon="key (large)"/>
+  <widgets xsi:type="model:Label" id="4" x="424" y="207" text="Sistema Bloqueado ..." measuredWidth="329" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="5" x="512" y="313" width="265" text="********************************" measuredWidth="265" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="328" y="313" text="Digite a Senha Para Desqloqueio" measuredWidth="175" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="7" x="656" y="360" text="Desbloquear Agora" measuredWidth="121" measuredHeight="25" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

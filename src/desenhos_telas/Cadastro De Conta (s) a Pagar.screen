@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="56" y="128" width="649" height="305" text="Thallyta Móveis - Cadastrando Conta (s)" measuredWidth="649" measuredHeight="305"/>
+  <widgets xsi:type="model:Label" id="2" x="72" y="280" text="Tipo De Conta" measuredWidth="81" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="56" y="238" width="649" measuredWidth="649" measuredHeight="6"/>
+  <widgets xsi:type="model:SearchField" id="4" x="472" y="184" width="209" text="Deseja Buscar Alguma Conta ?" measuredWidth="209" measuredHeight="24"/>
+  <widgets xsi:type="model:Label" id="5" x="72" y="157" text="Cadastrar" measuredWidth="97" measuredHeight="38">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="128" y="176" text="Conta (s)" measuredWidth="140" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="7" x="321" y="398" text="Salvar" measuredWidth="51" measuredHeight="25" link="Cadastro%20De%20Conta%20(s)%20a%20Pagar%20-%20Click.Salvar.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="8" x="379" y="398" text="Salvar e Cadastrar Outra" measuredWidth="146" measuredHeight="25" link="Cadastro%20De%20Conta%20(s)%20-%20Click%20Salvar%20e%20Cadastrar%20Outro.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="9" x="533" y="398" text="Limpar Tudo" measuredWidth="88" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="10" x="629" y="398" text="Cancelar" measuredWidth="66" measuredHeight="25" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="11" x="158" y="280" width="214" measuredWidth="214" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="392" y="280" text="Valor" measuredWidth="32" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="13" x="432" y="280" width="116" measuredWidth="116" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="392" y="354" text="Data De Vencimento" measuredWidth="113" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="15" x="512" y="354" width="97" text="        /          /" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="72" y="341" width="46" text="Origem" measuredWidth="46" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="17" x="158" y="341" width="214" measuredWidth="214" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="18" x="392" y="322" text="Data De Entrada" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="19" x="512" y="322" width="97" text="        /          /" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="20" x="72" y="310" text="Número Do Documento" measuredWidth="133" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="21" x="208" y="310" width="164" measuredWidth="164" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

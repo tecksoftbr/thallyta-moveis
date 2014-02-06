@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="176" y="72" width="865" height="489" text="Thallyta Móveis - Cadastrando Produto (s)" measuredWidth="865" measuredHeight="489"/>
+  <widgets xsi:type="model:HLine" id="2" x="176" y="181" width="865" measuredWidth="865" measuredHeight="6"/>
+  <widgets xsi:type="model:Rectangle" id="3" x="848" y="152" width="169" height="177" measuredWidth="169" measuredHeight="177">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="4" x="864" y="168" width="137" height="121" measuredWidth="137" measuredHeight="121">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="200" y="101" text="Cadastrar" measuredWidth="97" measuredHeight="38">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="256" y="120" text="Produto (s)" measuredWidth="176" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="9" x="651" y="526" text="Salvar" measuredWidth="51" measuredHeight="25" link="Cadastro%20De%20Produto%20(s)%20-%20Click.Salvar.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="10" x="709" y="526" text="Salvar e Cadastrar Outro" measuredWidth="147" measuredHeight="25" link="Cadastro%20De%20Produto%20(s)%20-%20Click%20Salvar%20e%20Cadastrar%20Outro.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="11" x="863" y="526" text="Limpar Tudo" measuredWidth="88" measuredHeight="25" link="">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="12" x="959" y="526" text="Cancelar" measuredWidth="66" measuredHeight="25" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="13" x="848" y="336" width="97" text="Webcam" measuredWidth="97" measuredHeight="25" link="Cadastro%20De%20Produto%20(s)%20-%20Click.Webcam.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="14" x="952" y="336" width="65" text="Selecionar" measuredWidth="65" measuredHeight="25" link="Cadastro%20De%20Produto%20(s)%20-%20Click.Selecione.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="15" x="296" y="218" width="111" measuredWidth="111" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="195" y="218" text="Código" measuredWidth="44" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="17" x="296" y="253" width="327" measuredWidth="327" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="18" x="195" y="253" text="Descrição" measuredWidth="56" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="23" x="296" y="349" width="111" measuredWidth="111" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="24" x="195" y="349" text="Preço De Compra" measuredWidth="98" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="25" x="503" y="349" width="120" measuredWidth="120" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="413" y="349" text="Preço De Venda" measuredWidth="88" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="30" x="195" y="285" text="Categoria" measuredWidth="56" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="31" x="296" y="285" width="153" text="Selecione ..." measuredWidth="153" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="32" x="456" y="284" text="+" measuredWidth="28" measuredHeight="25" link="Cadastro%20De%20Produto%20(s)%20-%20Click.Mais.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="33" x="488" y="284" width="28" text="-" measuredWidth="28" measuredHeight="25" link="Cadastro%20De%20Produto%20(s)%20-%20Click.Menos.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="34" x="296" y="381" width="111" measuredWidth="111" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="35" x="195" y="381" text="Quantidade" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="38" x="456" y="381" width="167" measuredWidth="167" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="39" x="413" y="381" text="Marca" measuredWidth="38" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="40" x="709" y="449" width="100" measuredWidth="100" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="41" x="653" y="449" text="Cor" measuredWidth="24" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="46" x="195" y="429" text="Observações" measuredWidth="72" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="47" x="195" y="451" width="428" height="83" measuredWidth="428" measuredHeight="83">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:SearchField" id="60" x="776" y="112" width="241" text="Deseja Buscar Algum Produto ?" measuredWidth="241" measuredHeight="24"/>
+  <widgets xsi:type="model:ScratchOut" id="61" x="880" y="182" width="105" height="96" measuredWidth="105" measuredHeight="96" annotation="true"/>
+  <widgets xsi:type="model:TextField" id="62" x="709" y="382" width="100" measuredWidth="100" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="63" x="653" y="382" text="Modelo" measuredWidth="46" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="64" x="752" y="417" width="273" measuredWidth="273" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="65" x="653" y="417" text="Número De Série" measuredWidth="94" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="66" x="656" y="253" width="153" measuredWidth="153" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="67" x="656" y="231" width="129" text="Data De Cadastro" measuredWidth="129" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="68" x="656" y="307" width="153" measuredWidth="153" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="69" x="656" y="285" width="129" text="Hora De Cadastro" measuredWidth="129" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="618"/>
+  </vRuler>
+  <font/>
+</model:Screen>

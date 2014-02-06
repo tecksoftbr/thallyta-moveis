@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="336" y="168" width="622" height="359" text="Thallyta Móveis - Selecionar Imagem" measuredWidth="622" measuredHeight="359"/>
+  <widgets xsi:type="model:Tree" id="2" x="336" y="208" height="319" text="Folder One&#xA;-Folder Two&#xA;--File One&#xA;--File Two&#xA;v Collapse Arrow&#xA;-[>] Closed Folder&#xA;-[v] Open Folder&#xA;> Expand Arrow&#xA;[-] Collapse&#xA;-[+] Expand&#xA;[] You can have&#xA;[x] Checkboxes&#xA;() And even radio buttons&#xA;{attachment} Or just any other icon&#xA;[_] And no icon too" measuredWidth="158" measuredHeight="319">
+    <items x="0" y="5" width="158" height="21" text="Folder One"/>
+    <items x="0" y="26" width="158" height="21" text="-Folder Two"/>
+    <items x="0" y="47" width="158" height="21" text="--File One"/>
+    <items x="0" y="68" width="158" height="21" text="--File Two"/>
+    <items x="0" y="89" width="158" height="21" text="v Collapse Arrow"/>
+    <items x="0" y="110" width="158" height="21" text="-[>] Closed Folder"/>
+    <items x="0" y="131" width="158" height="21" text="-[v] Open Folder"/>
+    <items x="0" y="152" width="158" height="21" text="> Expand Arrow"/>
+    <items x="0" y="173" width="158" height="21" text="[-] Collapse"/>
+    <items x="0" y="194" width="158" height="21" text="-[+] Expand"/>
+    <items x="0" y="215" width="158" height="21" text="[] You can have"/>
+    <items x="0" y="236" width="158" height="21" text="[x] Checkboxes"/>
+    <items x="0" y="257" width="158" height="21" text="() And even radio buttons"/>
+    <items x="0" y="278" width="158" height="21" text="{attachment} Or just any other icon"/>
+    <items x="0" y="299" width="158" height="21" text="[_] And no icon too"/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="3" x="336" y="187" width="622" text="&amp;File,&amp;Edit,&amp;View,~&amp;Window~,&amp;Help" measuredWidth="622" measuredHeight="27">
+    <items x="5" y="0" width="28" height="27" text="&amp;File"/>
+    <items x="33" y="0" width="30" height="27" text="&amp;Edit"/>
+    <items x="63" y="0" width="35" height="27" text="&amp;View"/>
+    <items x="98" y="0" width="54" height="27" text="~&amp;Window~"/>
+    <items x="152" y="0" width="35" height="27" text="&amp;Help"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="4" x="493" y="456" width="465" measuredWidth="465" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="5" x="544" y="240" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <widgets xsi:type="model:Icon" id="6" x="640" y="240" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <widgets xsi:type="model:Icon" id="7" x="736" y="240" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <widgets xsi:type="model:Icon" id="8" x="544" y="304" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <widgets xsi:type="model:Icon" id="9" x="640" y="304" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <widgets xsi:type="model:Icon" id="10" x="736" y="304" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <widgets xsi:type="model:Icon" id="11" x="544" y="370" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <widgets xsi:type="model:Icon" id="12" x="640" y="370" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <widgets xsi:type="model:Icon" id="13" x="736" y="370" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <widgets xsi:type="model:Icon" id="14" x="832" y="240" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <widgets xsi:type="model:Icon" id="15" x="832" y="304" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <widgets xsi:type="model:Icon" id="16" x="832" y="370" width="66" height="57" measuredWidth="66" measuredHeight="57" icon="closed (large)"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

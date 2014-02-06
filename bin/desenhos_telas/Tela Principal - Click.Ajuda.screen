@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="4" x="400" y="104" width="345" height="433" text="Thallyta Móveis - Ajuda" measuredWidth="345" measuredHeight="433"/>
+  <widgets xsi:type="model:HLine" id="5" x="400" y="200" width="345" measuredWidth="345" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="6" x="416" y="129" text="Ajuda" measuredWidth="63" measuredHeight="38">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="449" y="148" text="Com o Sistema" measuredWidth="228" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="8" x="520" y="221" width="209" text="Selecione ..." measuredWidth="209" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="424" y="221" text="Tipo De Ajuda" measuredWidth="80" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="10" x="400" y="256" width="345" measuredWidth="345" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="13" x="400" y="474" width="345" measuredWidth="345" measuredHeight="6"/>
+  <widgets xsi:type="model:VScrollbar" id="11" x="728" y="257" height="221" measuredWidth="17" measuredHeight="221"/>
+  <widgets xsi:type="model:ScratchOut" id="12" x="422" y="286" width="289" height="171" measuredWidth="289" measuredHeight="171" annotation="true"/>
+  <widgets xsi:type="model:Button" id="14" x="634" y="496" width="95" text="Voltar" measuredWidth="95" measuredHeight="25" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

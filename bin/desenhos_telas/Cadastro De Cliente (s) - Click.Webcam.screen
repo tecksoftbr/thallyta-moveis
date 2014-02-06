@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" x="384" y="168" measuredWidth="400" measuredHeight="329" dimmed="true">
+    <screen xsi:type="model:Screen" href="Webcam%20-%20Modelo.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="2" x="583" y="456" text="Capturar Agora" measuredWidth="101" measuredHeight="25" link="Cadastro%20De%20Cliente%20(s)%20-%20Pessoal.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="3" x="688" y="456" width="73" text="Cancelar" measuredWidth="73" measuredHeight="25" link="Cadastro%20De%20Cliente%20(s)%20-%20Pessoal.screen">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

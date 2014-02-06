@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="232" y="224" width="521" height="192" text="Thallyta Móveis - Conclusão" measuredWidth="521" measuredHeight="192"/>
+  <widgets xsi:type="model:Icon" id="2" x="256" y="261" width="144" height="145" measuredWidth="144" measuredHeight="145" icon="tag (large)"/>
+  <widgets xsi:type="model:Label" id="3" x="408" y="272" text="Adicionado (s)" measuredWidth="224" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="467" y="314" text="No Estoque Com Sucesso !" measuredWidth="266" measuredHeight="38">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="5" x="658" y="381" width="85" text="Ok" measuredWidth="85" measuredHeight="25" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

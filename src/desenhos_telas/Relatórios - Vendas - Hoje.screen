@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="2" x="48" y="48" width="1009" height="585" text="Thallyta Móveis - Relatório De Vendas" measuredWidth="1009" measuredHeight="585"/>
+  <widgets xsi:type="model:HLine" id="3" x="48" y="170" width="1009" measuredWidth="1009" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="4" x="80" y="85" text="Relatório De" measuredWidth="127" measuredHeight="38">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="168" y="104" text="Venda (s)" measuredWidth="146" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="6" x="755" y="67" height="107" measuredWidth="6" measuredHeight="107"/>
+  <widgets xsi:type="model:TabbedPane" id="8" x="72" y="202" width="961" height="345" text="Hoje,Ontem,3 Dias Atrás, 7 Dias Atrás, Personalizado" measuredWidth="961" measuredHeight="345" selection="0">
+    <items x="10" y="0" width="45" height="27" text="Hoje"/>
+    <items link="Relatórios%20-%20Vendas%20-%20Ontem.screen" x="55" y="0" width="57" height="27" text="Ontem"/>
+    <items link="Relatórios%20-%20Vendas%20-%203%20Dias%20Atrás.screen" x="112" y="0" width="81" height="27" text="3 Dias Atrás"/>
+    <items link="Relatórios%20-%20Vendas%20-%207%20Dias%20Atrás.screen" x="193" y="0" width="81" height="27" text="7 Dias Atrás"/>
+    <items link="Relatórios%20-%20Vendas%20-%20Personalizado.screen" x="274" y="0" width="93" height="27" text="Personalizado"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="9" x="48" y="576" width="1009" measuredWidth="1009" measuredHeight="6"/>
+  <widgets xsi:type="model:Button" id="10" x="992" y="592" text="Voltar" measuredWidth="51" measuredHeight="25" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="11" x="836" y="592" text="Imprimir" measuredWidth="66" measuredHeight="25" link="Relatórios%20-%20Vendas%20-%20Click%20Imprimir.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="12" x="911" y="592" text="Gerar PDF" measuredWidth="72" measuredHeight="25" link="Relatórios%20-%20Vendas%20-%20Click%20-%20Pdf.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="13" x="72" y="593" text="Total De Produtos Vendidos: 0" measuredWidth="164" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="256" y="593" text="Total Em Dinheiro: R$: 00.00" measuredWidth="152" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:SearchField" id="16" x="783" y="109" width="250" text="Buscar Venda Por Data ..." measuredWidth="250" measuredHeight="24"/>
+  <widgets xsi:type="model:HLine" id="17" x="72" y="272" width="961" measuredWidth="961" measuredHeight="6"/>
+  <widgets xsi:type="model:VLine" id="19" x="206" y="229" height="318" measuredWidth="6" measuredHeight="318"/>
+  <widgets xsi:type="model:VLine" id="21" x="343" y="230" height="318" measuredWidth="6" measuredHeight="318"/>
+  <widgets xsi:type="model:VLine" id="23" x="432" y="230" height="318" measuredWidth="6" measuredHeight="318"/>
+  <widgets xsi:type="model:VLine" id="25" x="535" y="229" height="318" measuredWidth="6" measuredHeight="318"/>
+  <widgets xsi:type="model:VLine" id="27" x="824" y="230" height="318" measuredWidth="6" measuredHeight="318"/>
+  <widgets xsi:type="model:Label" id="28" x="86" y="242" text="Cliente - Comprador" measuredWidth="114" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="29" x="644" y="229" height="318" measuredWidth="6" measuredHeight="318"/>
+  <widgets xsi:type="model:VScrollbar" id="30" x="1016" y="229" height="319" measuredWidth="17" measuredHeight="319"/>
+  <widgets xsi:type="model:HScrollbar" id="31" x="72" y="531" width="945" measuredWidth="945" measuredHeight="17"/>
+  <widgets xsi:type="model:VLine" id="33" x="737" y="229" height="318" measuredWidth="6" measuredHeight="318"/>
+  <widgets xsi:type="model:Label" id="34" x="424" y="593" text="Lucro Total: R$: 00.00" measuredWidth="117" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="35" x="219" y="242" text="Descrição Do Produto" measuredWidth="120" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="36" x="359" y="242" text="Quantidade" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="37" x="450" y="242" text="Preço Unitário" measuredWidth="80" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="38" x="560" y="242" text="Preço Total" measuredWidth="65" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="39" x="656" y="242" text="Lucro Unitário" measuredWidth="80" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="40" x="754" y="242" text="Lucro Total" measuredWidth="65" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="41" x="847" y="242" measuredWidth="5" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="42" x="73" y="312" width="945" measuredWidth="945" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="43" x="73" y="352" width="947" measuredWidth="947" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="44" x="74" y="392" width="945" measuredWidth="945" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="45" x="74" y="432" width="944" measuredWidth="944" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="46" x="75" y="472" width="945" measuredWidth="945" measuredHeight="6"/>
+  <hRuler>
+    <guides position="-6"/>
+  </hRuler>
+  <vRuler/>
+  <font/>
+</model:Screen>

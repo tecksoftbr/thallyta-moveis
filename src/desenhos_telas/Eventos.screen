@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" x="151" y="46" measuredWidth="993" measuredHeight="625" dimmed="true">
+    <screen xsi:type="model:Screen" href="Tela%20Principal.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Table" id="2" x="328" y="384" width="629" height="287" text="Ações De Hoje ...&#xA; [+] Lembretes&#xA; [+] Contas a Pagar&#xA; [+] Contas a Receber&#xA; [+] Entregas&#xA; [+] Outros" measuredWidth="629" measuredHeight="287" alternative="#eeeeee">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Tabs" id="4" x="595" y="360" text="Eventos (Close)" measuredWidth="103" measuredHeight="27" selection="0">
+    <items link="Tela%20Principal.screen" x="1" y="0" width="101" height="27" text="Eventos (Close)"/>
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

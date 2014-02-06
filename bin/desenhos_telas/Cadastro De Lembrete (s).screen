@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="2" x="72" y="136" width="649" height="321" text="Thallyta Móveis - Cadastrando Conta (s)" measuredWidth="649" measuredHeight="321"/>
+  <widgets xsi:type="model:Label" id="3" x="88" y="304" text="Título" measuredWidth="36" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="4" x="72" y="246" width="649" measuredWidth="649" measuredHeight="6"/>
+  <widgets xsi:type="model:SearchField" id="5" x="488" y="192" width="209" text="Deseja Buscar Algum Lembrete ?" measuredWidth="209" measuredHeight="24"/>
+  <widgets xsi:type="model:Label" id="6" x="88" y="165" text="Cadastrar" measuredWidth="97" measuredHeight="38">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="144" y="184" text="Lembrete (s)" measuredWidth="193" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="8" x="337" y="422" text="Salvar" measuredWidth="51" measuredHeight="25" link="Cadastro%20De%20Lembrete%20(s)%20-%20Click.Salvar.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="9" x="395" y="422" text="Salvar e Cadastrar Outra" measuredWidth="146" measuredHeight="25" link="Cadastro%20De%20Lembrete%20(s)%20-%20Click%20Salvar%20e%20Cadastrar%20Outro.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="10" x="549" y="422" text="Limpar Tudo" measuredWidth="88" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="11" x="645" y="422" text="Cancelar" measuredWidth="66" measuredHeight="25" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="12" x="152" y="304" width="214" measuredWidth="214" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="88" y="336" text="Descrição" measuredWidth="56" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="25" x="152" y="336" width="559" height="73" measuredWidth="559" measuredHeight="73">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="380" y="304" text="Data De Aviso" measuredWidth="78" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="28" x="464" y="304" width="97" text="        /          /" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="29" x="88" y="272" text="Código" measuredWidth="44" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="30" x="152" y="272" width="97" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

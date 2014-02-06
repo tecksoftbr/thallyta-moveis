@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" x="315" y="144" measuredWidth="622" measuredHeight="359" dimmed="true">
+    <screen xsi:type="model:Screen" href="Selecione%20-%20Modelo.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="2" x="776" y="456" text="Selecionar" measuredWidth="74" measuredHeight="25" link="Cadastro%20De%20Produto%20(s).screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="3" x="856" y="456" text="Cancelar" measuredWidth="66" measuredHeight="25" link="Cadastro%20De%20Produto%20(s).screen">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="4" x="368" y="168" width="321" height="321" text="Thallyta Móveis - Novo Atalho" measuredWidth="321" measuredHeight="321"/>
+  <widgets xsi:type="model:Rectangle" id="5" x="392" y="208" width="273" height="241" measuredWidth="273" measuredHeight="241">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="6" x="392" y="256" width="273" measuredWidth="273" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="8" x="392" y="304" width="273" measuredWidth="273" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="9" x="392" y="352" width="273" measuredWidth="273" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="10" x="392" y="400" width="273" measuredWidth="273" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="13" x="408" y="218" measuredWidth="32" measuredHeight="32" icon="shopping-cart (large)"/>
+  <widgets xsi:type="model:Icon" id="14" x="405" y="267" measuredWidth="32" measuredHeight="32" icon="play (large)"/>
+  <widgets xsi:type="model:Icon" id="15" x="405" y="316" measuredWidth="32" measuredHeight="32" icon="table (large)"/>
+  <widgets xsi:type="model:Icon" id="16" x="406" y="365" measuredWidth="32" measuredHeight="32" icon="share (large)"/>
+  <widgets xsi:type="model:Icon" id="17" x="405" y="409" measuredWidth="32" measuredHeight="32" icon="thumbs-up (large)"/>
+  <widgets xsi:type="model:VScrollbar" id="19" x="648" y="209" height="240" measuredWidth="17" measuredHeight="240"/>
+  <widgets xsi:type="model:Button" id="20" x="519" y="455" text="Adicionar" measuredWidth="71" measuredHeight="25" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="21" x="594" y="455" width="71" text="Voltar" measuredWidth="71" measuredHeight="25" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="22" x="457" y="221" text="Realizar Venda (s)" measuredWidth="142" measuredHeight="29">
+    <font size="12" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="457" y="268" text="Gerenciar Cliente (s)" measuredWidth="159" measuredHeight="29">
+    <font size="12" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="24" x="457" y="317" text="Compras" measuredWidth="72" measuredHeight="29">
+    <font size="12" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="25" x="457" y="366" text="Relatório De Vendas" measuredWidth="160" measuredHeight="29">
+    <font size="12" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="457" y="412" text="Cadastrar Fornecedor" measuredWidth="167" measuredHeight="29">
+    <font size="12" bold="true"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

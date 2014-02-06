@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="160" y="16" width="905" height="673" text="Thallyta Móveis - Realizando Venda" measuredWidth="905" measuredHeight="673"/>
+  <widgets xsi:type="model:HLine" id="3" x="160" y="127" width="905" measuredWidth="905" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="4" x="176" y="49" text="Realizando" measuredWidth="113" measuredHeight="38">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="247" y="68" text="Venda (s)" measuredWidth="146" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="6" x="672" y="35" height="97" measuredWidth="6" measuredHeight="97"/>
+  <widgets xsi:type="model:Combo" id="7" x="824" y="74" width="218" text="Selecione ..." measuredWidth="218" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="8" x="696" y="74" text="Venda Para o Cliente" measuredWidth="114" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="9" x="160" y="392" width="905" measuredWidth="905" measuredHeight="6"/>
+  <widgets xsi:type="model:Rectangle" id="10" x="176" y="184" width="866" height="169" measuredWidth="866" measuredHeight="169">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:SearchField" id="11" x="884" y="144" text="Buscar Algum Produto ?" measuredWidth="158" measuredHeight="24"/>
+  <widgets xsi:type="model:Label" id="13" x="176" y="399" text="Produto (s) Escolhido (s) ..." measuredWidth="207" measuredHeight="29">
+    <font size="12" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="176" y="156" text="Em Estoque ..." measuredWidth="110" measuredHeight="29">
+    <font size="12" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="15" x="1014" y="360" text="+" measuredWidth="28" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="16" x="928" y="361" width="57" measuredWidth="57" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="17" x="856" y="361" text="Quantidade" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="18" x="864" y="640" text="Concluir Venda" measuredWidth="101" measuredHeight="25" link="Realizar%20Venda%20-%20Click.Concluir.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="19" x="976" y="640" text="Cancelar" measuredWidth="66" measuredHeight="25" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="22" x="176" y="632" text="Deseja Que a Loja Entregue a Mercadoria ?" measuredWidth="228" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:RadioButton" id="23" x="416" y="632" text="Sim" measuredWidth="40" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:RadioButton" id="24" x="464" y="632" text="Não" measuredWidth="42" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="25" x="176" y="216" width="866" measuredWidth="866" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="26" x="176" y="248" width="866" measuredWidth="866" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="27" x="176" y="282" width="866" measuredWidth="866" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="28" x="176" y="314" width="866" measuredWidth="866" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="37" x="618" y="613" text="Valor Da Parcela" measuredWidth="90" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="38" x="711" y="613" width="99" text="00.00" measuredWidth="99" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="39" x="176" y="654" text="Preço Da Entrega" measuredWidth="95" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="40" x="270" y="654" width="98" text="00.00" measuredWidth="98" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="41" x="378" y="654" text="Data De Entrega" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="42" x="472" y="654" width="73" text="       /   /" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="43" x="1017" y="572" text="-" measuredWidth="25" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="44" x="912" y="572" text="Remover Tudo" measuredWidth="98" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="45" x="955" y="101" text="Ver Informações" measuredWidth="91" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="46" x="618" y="645" text="Valor Total" measuredWidth="62" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="47" x="711" y="645" width="99" text="00.00" measuredWidth="99" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="48" x="320" y="184" height="169" measuredWidth="6" measuredHeight="169"/>
+  <widgets xsi:type="model:Label" id="49" x="192" y="194" text="Descrição Do Produto" measuredWidth="120" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="50" x="416" y="184" height="169" measuredWidth="6" measuredHeight="169"/>
+  <widgets xsi:type="model:Label" id="51" x="341" y="194" text="Quantidade" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="54" x="531" y="184" height="169" measuredWidth="6" measuredHeight="169"/>
+  <widgets xsi:type="model:Label" id="55" x="434" y="194" text="Preço De Venda" measuredWidth="88" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="58" x="706" y="184" height="169" measuredWidth="6" measuredHeight="169"/>
+  <widgets xsi:type="model:Label" id="59" x="594" y="194" text="Categoria" measuredWidth="56" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="60" x="841" y="194" text="Observações" measuredWidth="72" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="93" x="176" y="427" width="866" height="136" measuredWidth="866" measuredHeight="136">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="94" x="176" y="459" width="866" measuredWidth="866" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="95" x="176" y="491" width="866" measuredWidth="866" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="96" x="176" y="525" width="866" measuredWidth="866" measuredHeight="6"/>
+  <widgets xsi:type="model:VLine" id="98" x="320" y="427" height="136" measuredWidth="6" measuredHeight="136"/>
+  <widgets xsi:type="model:Label" id="99" x="192" y="437" text="Descrição Do Produto" measuredWidth="120" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="100" x="416" y="427" height="136" measuredWidth="6" measuredHeight="136"/>
+  <widgets xsi:type="model:Label" id="101" x="341" y="437" text="Quantidade" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="102" x="531" y="427" height="136" measuredWidth="6" measuredHeight="136"/>
+  <widgets xsi:type="model:Label" id="103" x="434" y="437" text="Preço De Venda" measuredWidth="88" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="106" x="706" y="427" height="136" measuredWidth="6" measuredHeight="136"/>
+  <widgets xsi:type="model:Label" id="107" x="594" y="437" text="Categoria" measuredWidth="56" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="108" x="841" y="437" text="Observações" measuredWidth="72" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="109" x="176" y="576" text="Tipo De Pagamento" measuredWidth="110" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="110" x="288" y="576" width="129" text="Selecione ..." measuredWidth="129" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="113" x="428" y="576" text="Vezes" measuredWidth="34" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Spinner" id="114" x="466" y="576" text="12" measuredWidth="36" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="115" x="618" y="580" text="Desconto" measuredWidth="55" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="116" x="711" y="580" width="98" text="00.00" measuredWidth="98" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="-19"/>
+  </vRuler>
+  <font/>
+</model:Screen>

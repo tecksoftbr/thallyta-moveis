@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" x="136" y="32" measuredWidth="993" measuredHeight="625" dimmed="true">
+    <screen xsi:type="model:Screen" href="Tela%20Principal.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="4" x="484" y="75" text="Produtos&#xD;&#xA;Fornecedores&#xD;&#xA;Clientes&#xD;&#xA;&#xD;&#xA;Contas a Pagar&#xD;&#xA;Lembretes" measuredWidth="89" measuredHeight="130">
+    <font/>
+    <items link="Tela%20Principal%20-%20Click.Gerenciar.Produto%20(s).screen" x="0" y="2" width="89" height="21" text="Produtos"/>
+    <items link="Tela%20Principal%20-%20Click.Gerenciar.Fornecedor%20(es).screen" x="0" y="23" width="89" height="21" text="Fornecedores"/>
+    <items link="Tela%20Principal%20-%20Click.Gerenciar.Cliente%20(s)%20-%20Pessoal.screen" x="0" y="44" width="89" height="21" text="Clientes"/>
+    <items x="0" y="65" width="89" height="21"/>
+    <items link="Tela%20Principal%20-%20Click.Gerenciar.Conta%20(s)%20a%20Pagar.screen" x="0" y="86" width="89" height="21" text="Contas a Pagar"/>
+    <items link="Tela%20Principal%20-%20Click.Gerenciar.Lembrete%20(s).screen" x="0" y="107" width="89" height="21" text="Lembretes"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

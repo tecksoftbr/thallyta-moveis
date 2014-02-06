@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" x="56" y="40" measuredWidth="993" measuredHeight="625" dimmed="true">
+    <screen xsi:type="model:Screen" href="Tela%20Principal.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="2" x="340" y="83" text="Calculadora&#xD;&#xA;Bloquear Sistema" measuredWidth="101" measuredHeight="46">
+    <font/>
+    <items link="Calculadora.screen" x="0" y="2" width="101" height="21" text="Calculadora"/>
+    <items link="Bloquear%20Sistema.screen" x="0" y="23" width="101" height="21" text="Bloquear Sistema"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

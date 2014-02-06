@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="2" x="161" y="45" measuredWidth="993" measuredHeight="625" dimmed="true">
+    <screen xsi:type="model:Screen" href="Tela%20Principal.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="3" x="384" y="88" text="Vendas Realizadas&#xD;&#xA;Contas a Pagar&#xD;&#xA;Recebimentos" measuredWidth="105" measuredHeight="67">
+    <font/>
+    <items link="Relatórios%20-%20Vendas%20-%20Hoje.screen" x="0" y="2" width="105" height="21" text="Vendas Realizadas"/>
+    <items link="Relatórios%20-%20Contas.screen" x="0" y="23" width="105" height="21" text="Contas a Pagar"/>
+    <items link="Relatórios%20-%20Recebimentos.screen" x="0" y="44" width="105" height="21" text="Recebimentos"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

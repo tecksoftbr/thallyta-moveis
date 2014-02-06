@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="4" x="408" y="160" height="329" text="Thallyta Móveis - Webcam" measuredWidth="400" measuredHeight="329"/>
+  <widgets xsi:type="model:Rectangle" id="5" x="432" y="200" width="353" height="233" measuredWidth="353" measuredHeight="233">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="9" x="501" y="212" width="217" height="209" measuredWidth="217" measuredHeight="209" icon="user (large)"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

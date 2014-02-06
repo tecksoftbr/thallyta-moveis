@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="216" y="104" width="665" height="433" text="Thallyta Móveis - Relatório De Contas" measuredWidth="665" measuredHeight="433"/>
+  <widgets xsi:type="model:HLine" id="2" x="216" y="222" width="665" measuredWidth="665" measuredHeight="6"/>
+  <widgets xsi:type="model:SearchField" id="3" x="602" y="160" width="250" text="Deseja Buscar Algum Recebimento ?" measuredWidth="250" measuredHeight="24"/>
+  <widgets xsi:type="model:Label" id="4" x="232" y="141" text="Relatório" measuredWidth="95" measuredHeight="38">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="288" y="160" text="Recebimento (s)" measuredWidth="248" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="6" x="243" y="248" width="609" height="166" measuredWidth="609" measuredHeight="166">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="252" y="258" text="Nome Do Cliente" measuredWidth="96" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="8" x="347" y="248" height="166" measuredWidth="6" measuredHeight="166"/>
+  <widgets xsi:type="model:Label" id="9" x="365" y="258" text="Data Da Compra" measuredWidth="92" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="10" x="465" y="248" height="166" measuredWidth="6" measuredHeight="166"/>
+  <widgets xsi:type="model:Label" id="11" x="481" y="258" text="Parcela" measuredWidth="43" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="12" x="531" y="248" height="166" measuredWidth="6" measuredHeight="166"/>
+  <widgets xsi:type="model:Label" id="13" x="557" y="258" text="Valor" measuredWidth="32" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="14" x="603" y="248" height="166" measuredWidth="6" measuredHeight="166"/>
+  <widgets xsi:type="model:Label" id="15" x="616" y="258" text="Juros" measuredWidth="32" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="712" y="258" text="Total Da Parcela" measuredWidth="90" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="17" x="660" y="248" height="166" measuredWidth="6" measuredHeight="166"/>
+  <widgets xsi:type="model:HLine" id="18" x="243" y="288" width="609" measuredWidth="609" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="19" x="243" y="328" width="609" measuredWidth="609" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="20" x="243" y="368" width="609" measuredWidth="609" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="21" x="216" y="432" width="665" measuredWidth="665" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="22" x="216" y="475" width="665" measuredWidth="665" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="23" x="230" y="446" text="Recebimentos Cadastrados: 0" measuredWidth="160" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="24" x="660" y="446" text="Valor De Pagamento Total: R$ 00.00" measuredWidth="192" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="25" x="428" y="446" text="Recebimento Mais Próximo:   /  /" measuredWidth="178" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="26" x="392" y="436" height="44" measuredWidth="6" measuredHeight="44"/>
+  <widgets xsi:type="model:VLine" id="27" x="632" y="436" height="44" measuredWidth="6" measuredHeight="44"/>
+  <widgets xsi:type="model:Button" id="28" x="660" y="495" text="Imprimir" measuredWidth="66" measuredHeight="25" link="Relatórios%20-%20Recebimentos%20-%20Click.Imprimir.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="29" x="736" y="495" text="Gerar PDF" measuredWidth="72" measuredHeight="25" link="Relatórios%20-%20Recebimentos%20-%20Click.Pdf.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="30" x="816" y="495" text="Voltar" measuredWidth="51" measuredHeight="25" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="3" x="132" y="40" measuredWidth="993" measuredHeight="625" dimmed="true">
+    <screen xsi:type="model:Screen" href="Tela%20Principal.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="4" x="232" y="83" text="Realizar Venda" measuredWidth="86" measuredHeight="25">
+    <font/>
+    <items link="Realizar%20Venda.screen" x="0" y="2" width="86" height="21" text="Realizar Venda"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

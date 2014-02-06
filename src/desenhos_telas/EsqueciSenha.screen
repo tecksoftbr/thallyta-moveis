@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="64" y="80" width="682" height="382" text="Thallyta Móveis - Recuperar Senha" measuredWidth="682" measuredHeight="382"/>
+  <widgets xsi:type="model:HLine" id="2" x="64" y="173" width="682" measuredWidth="682" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="3" x="83" y="103" text="Recuperar" measuredWidth="104" measuredHeight="38">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="161" y="122" text="Senha" measuredWidth="95" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="5" x="449" y="127" width="191" measuredWidth="191" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="6" x="649" y="126" width="65" text="Ok" measuredWidth="65" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="305" y="112" text="Passo 1:" measuredWidth="47" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="8" x="321" y="127" text="Digite o Seu Apelido" measuredWidth="118" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

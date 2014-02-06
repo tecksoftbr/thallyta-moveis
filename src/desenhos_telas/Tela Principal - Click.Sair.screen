@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="360" y="224" width="529" height="169" text="Thallyta Móveis - Backup Do Sistema" measuredWidth="529" measuredHeight="169"/>
+  <widgets xsi:type="model:Icon" id="3" x="380" y="259" width="125" height="118" measuredWidth="125" measuredHeight="118" icon="circled-check (large)"/>
+  <widgets xsi:type="model:Label" id="5" x="380" y="306" width="473" measuredWidth="473" measuredHeight="38">
+    <font size="16" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="8" x="525" y="292" text="Finalizado Com Sucesso !" measuredWidth="348" measuredHeight="48">
+    <font size="22" bold="true"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Panel" id="1" x="208" y="16" width="657" height="673" measuredWidth="657" measuredHeight="673"/>
+  <widgets xsi:type="model:HLine" id="2" x="208" y="56" width="657" measuredWidth="657" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="3" x="224" y="25" text="Thallyta Móveis" measuredWidth="126" measuredHeight="29">
+    <font size="12" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="4" x="360" y="19" height="41" measuredWidth="6" measuredHeight="41"/>
+  <widgets xsi:type="model:VLine" id="5" x="624" y="19" height="41" measuredWidth="6" measuredHeight="41"/>
+  <widgets xsi:type="model:Label" id="6" x="376" y="25" text="Data - Venda: 27/05/2012  - 12:30" measuredWidth="243" measuredHeight="29">
+    <font size="12" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="648" y="25" text="Quantidade De Produtos: 05" measuredWidth="201" measuredHeight="29">
+    <font size="12" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="224" y="152" text="Cliente - Comprador:" measuredWidth="134" measuredHeight="25">
+    <font size="10" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="10" x="224" y="176" width="625" height="33" measuredWidth="625" measuredHeight="33"/>
+  <widgets xsi:type="model:Label" id="11" x="336" y="180" text="Nome: Thiago José Da Silva" measuredWidth="168" measuredHeight="25">
+    <font size="10" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="234" y="180" text="Código: 0008" measuredWidth="83" measuredHeight="25">
+    <font size="10" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="13" x="320" y="180" height="29" measuredWidth="6" measuredHeight="29"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

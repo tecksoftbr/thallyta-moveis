@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Rectangle" id="1" x="448" y="216" width="177" height="209" measuredWidth="177" measuredHeight="209">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="2" x="448" y="264" width="177" measuredWidth="177" measuredHeight="6"/>
+  <widgets xsi:type="model:TextField" id="3" x="456" y="229" width="161" measuredWidth="161" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="4" x="460" y="352" text="1" measuredWidth="26" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="5" x="492" y="352" text="2" measuredWidth="26" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="6" x="524" y="352" text="3" measuredWidth="26" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="7" x="460" y="320" text="4" measuredWidth="26" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="8" x="492" y="320" text="5" measuredWidth="26" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="9" x="524" y="320" text="6" measuredWidth="26" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="10" x="460" y="288" text="7" measuredWidth="26" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="11" x="492" y="288" text="8" measuredWidth="26" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="12" x="524" y="288" text="9" measuredWidth="26" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="13" x="556" y="352" text="-" measuredWidth="25" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="14" x="556" y="320" text="*" measuredWidth="25" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="15" x="556" y="288" text="/" measuredWidth="25" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="16" x="460" y="384" width="90" text="0" measuredWidth="90" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="17" x="556" y="384" width="25" text="+" measuredWidth="25" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="18" x="588" y="320" width="25" height="89" text="=" measuredWidth="25" measuredHeight="89">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="19" x="588" y="288" width="25" text="%" measuredWidth="25" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

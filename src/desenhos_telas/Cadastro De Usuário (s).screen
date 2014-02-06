@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="192" y="96" width="793" height="401" text="Thallyta Móveis - Cadastrando Usuário" measuredWidth="793" measuredHeight="401"/>
+  <widgets xsi:type="model:HLine" id="2" x="192" y="202" width="793" measuredWidth="793" measuredHeight="6"/>
+  <widgets xsi:type="model:SearchField" id="3" x="744" y="149" width="224" text="Deseja Buscar Algum Usuário ?" measuredWidth="224" measuredHeight="24"/>
+  <widgets xsi:type="model:Label" id="4" x="216" y="125" text="Cadastrar" measuredWidth="97" measuredHeight="38">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="272" y="144" text="Usuário (s)" measuredWidth="167" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="216" y="224" text="Nome Completo" measuredWidth="94" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="7" x="601" y="456" text="Salvar" measuredWidth="51" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="8" x="657" y="456" text="Salvar e Cadastrar Outro" measuredWidth="147" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="9" x="809" y="456" text="Limpar Tudo" measuredWidth="88" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="10" x="902" y="456" text="Cancelar" measuredWidth="66" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="11" x="328" y="368" width="281" text="Selecione ..." measuredWidth="281" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="12" x="328" y="224" width="281" measuredWidth="281" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="13" x="216" y="282" text="Apelido Desejado" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="14" x="328" y="282" width="145" measuredWidth="145" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="216" y="312" text="Senha" measuredWidth="37" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="16" x="328" y="312" width="145" measuredWidth="145" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="17" x="216" y="368" text="Pergunta Secreta" measuredWidth="94" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="18" x="216" y="400" text="Resposta Secreta" measuredWidth="93" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="19" x="328" y="400" width="281" measuredWidth="281" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="23" x="798" y="187" width="169" height="177" measuredWidth="169" measuredHeight="177">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="24" x="814" y="203" width="137" height="121" measuredWidth="137" measuredHeight="121">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="25" x="798" y="371" width="97" text="Webcam" measuredWidth="97" measuredHeight="25" link="Cadastro%20De%20Produto%20(s)%20-%20Click.Webcam.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="26" x="902" y="371" width="65" text="Selecionar" measuredWidth="65" measuredHeight="25" link="Cadastro%20De%20Produto%20(s)%20-%20Click.Selecione.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:ScratchOut" id="27" x="830" y="217" width="105" height="96" measuredWidth="105" measuredHeight="96" annotation="true"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

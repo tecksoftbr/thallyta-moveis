@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="8" y="48" width="1257" height="609" text="Thallyta Móveis - Gerenciar Fornecedor (es)" measuredWidth="1257" measuredHeight="609"/>
+  <widgets xsi:type="model:Button" id="2" x="950" y="568" text="Remover" measuredWidth="67" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="3" x="32" y="192" width="1217" height="401" measuredWidth="1217" measuredHeight="401"/>
+  <widgets xsi:type="model:HLine" id="4" x="32" y="224" width="1217" measuredWidth="1217" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="5" x="173" y="202" text="Empresa" measuredWidth="50" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="48" y="202" text="Codigo" measuredWidth="44" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="7" x="96" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:VLine" id="8" x="295" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:Label" id="9" x="319" y="202" text="CEP" measuredWidth="26" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="10" x="360" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:Label" id="11" x="408" y="202" text="Rua" measuredWidth="25" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="12" x="472" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:Label" id="13" x="488" y="202" text="Bairro" measuredWidth="36" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:SearchField" id="14" x="1003" y="111" width="241" text="Deseja Buscar Algum Fornecedor ?" measuredWidth="241" measuredHeight="24"/>
+  <widgets xsi:type="model:VLine" id="15" x="528" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:Label" id="16" x="556" y="202" text="Cidade" measuredWidth="42" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="17" x="616" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:Label" id="18" x="657" y="202" text="Estado" measuredWidth="40" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="19" x="727" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:Label" id="20" x="755" y="202" text="Telefone" measuredWidth="51" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="21" x="823" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:Label" id="22" x="849" y="202" text="Fax" measuredWidth="22" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="23" x="888" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:Label" id="24" x="913" y="202" text="E-mail" measuredWidth="39" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="25" x="966" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:Label" id="26" x="997" y="202" text="Web" measuredWidth="29" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="27" x="1046" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:HLine" id="28" x="32" y="256" width="1217" measuredWidth="1217" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="29" x="32" y="288" width="1217" measuredWidth="1217" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="30" x="32" y="320" width="1217" measuredWidth="1217" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="31" x="32" y="352" width="1217" measuredWidth="1217" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="32" x="32" y="384" width="1217" measuredWidth="1217" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="33" x="32" y="416" width="1217" measuredWidth="1217" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="34" x="32" y="448" width="1217" measuredWidth="1217" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="35" x="32" y="480" width="1217" measuredWidth="1217" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="36" x="32" y="512" width="1217" measuredWidth="1217" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="37" x="32" y="544" width="1217" measuredWidth="1217" measuredHeight="6"/>
+  <widgets xsi:type="model:VLine" id="38" x="1144" y="192" height="401" measuredWidth="6" measuredHeight="401"/>
+  <widgets xsi:type="model:Label" id="39" x="1057" y="202" text="Data - Cadastro" measuredWidth="87" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="40" x="1155" y="202" text="Hora - Cadastro" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="41" x="10" y="169" width="1255" measuredWidth="1255" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="42" x="34" y="77" text="Gerenciando" measuredWidth="129" measuredHeight="38">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="43" x="83" y="96" text="Fornecedor (es)" measuredWidth="240" measuredHeight="53">
+    <font size="24" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="44" x="1171" y="608" width="78" height="33" text="Voltar" measuredWidth="78" measuredHeight="33" link="Tela%20Principal.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="45" x="1088" y="608" width="78" height="33" text="Alterar" measuredWidth="78" measuredHeight="33">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="46" x="1003" y="608" width="78" height="33" text="Remover" measuredWidth="78" measuredHeight="33">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="47" x="346" y="93" height="59" text="Gerenciar - Clientes" measuredWidth="123" measuredHeight="59" link="Tela%20Principal%20-%20Click.Gerenciar.Cliente%20(s)%20-%20Pessoal.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="48" x="621" y="93" height="59" text="Gerenciar - Contas a Pagar" measuredWidth="160" measuredHeight="59" link="Tela%20Principal%20-%20Click.Gerenciar.Conta%20(s)%20a%20Pagar.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="49" x="477" y="93" height="59" text="Gerenciar - Produtos" measuredWidth="129" measuredHeight="59" link="Tela%20Principal%20-%20Click.Gerenciar.Produto%20(s).screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="50" x="789" y="93" height="59" text="Gerenciar - Lembretes" measuredWidth="136" measuredHeight="59" link="Tela%20Principal%20-%20Click.Gerenciar.Lembrete%20(s).screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HScrollbar" id="51" x="32" y="575" width="1217" measuredWidth="1217" measuredHeight="17"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
